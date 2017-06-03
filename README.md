@@ -6,4 +6,5 @@ Simple web application that displays average temperature over next 5 days in a U
 To run:
 - Clone the repo
 - npm install
+- Input your API keys
 - npm start
