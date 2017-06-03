@@ -1,4 +1,4 @@
-#ReactWeather
+# ReactWeather
 
 Simple web application that displays average temperature over next 5 days in a US city.
 
